@@ -1,0 +1,16 @@
+{
+  "name": "cGVHD 症状の記録",
+  "short_name": "症状の記録",
+  "description": "移植後の症状とQOLを記録し、経過を確認するためのアプリです。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1a3d5c",
+  "lang": "ja",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
